@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Data Analytics
 - 💞️ I’m looking to collaborate on projecs
 - 📫 How to reach me mette@jonassen.nu
-- ⚡ Fun fact: Im older than I look
+- ⚡ Fun fact: I once had a cat that was allergic to her self.
 
 <!---
 m-aygun/m-aygun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
